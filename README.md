@@ -42,5 +42,9 @@ This project analyzes food allergy-related information and symptoms to estimate 
 1. Clone this repository.
 2. Install the required dependencies:
 
-```bash
-pip install -r requirements.txt
+```bash```
+pip install -r requirements.txt 
+
+## Disclaimer
+
+This project is intended for educational and demonstration purposes and should not be used as a substitute for professional medical advice.
